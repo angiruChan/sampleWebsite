@@ -1,0 +1,36 @@
+
+body{
+	background-image: url("images/b3.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+table{	
+	margin: 5% auto;
+	width: 60%;
+	border-collapse:collapse;
+}
+label{
+	font-size: 30px;
+	color:#339999;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+
+table{
+	border:hidden;
+}
+td{
+	height:30px;
+	border: 2px  ;
+	padding: 20px;
+}
+p.text{
+	text-align: center;
+	padding:2%;
+	font-family: "Courier new";
+}
+.din{
+		margin: 5% 0% 0% 70%;
+		font-family: "Courier new";
+}
